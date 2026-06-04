@@ -51,7 +51,7 @@ pip install pandas numpy scikit-learn tensorflow matplotlib
 2. Open the Jupyter Notebook:
 
 ```bash
-jupyter notebook Airbnb_Project.ipynb
+jupyter notebook 171_Final_Project.ipynb
 ```
 
 3. Run all cells to reproduce the results.
