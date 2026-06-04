@@ -51,8 +51,11 @@ jupyter notebook Airbnb_Project.ipynb
 
 ## Author
 Aaron Pilapil
+
 Angelina Lai
+
 Sia Puri
+
 Zicheng Haung
 
 
