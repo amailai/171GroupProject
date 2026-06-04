@@ -32,6 +32,13 @@ Model performance was evaluated using:
 - `processed_airbnb.csv` – Cleaned and preprocessed dataset used for training and testing the machine learning models.
 - `processed_airbnb_all_reviews.csv` – Preprocessed dataset that incorporates Airbnb review information for additional analysis and modeling.
 
+## Dataset
+
+The dataset used in this project was obtained from Kaggle:
+
+https://www.kaggle.com/datasets/navaneesh/airbnb/data
+
+Data files © Original Authors.
 
 ## Running the Project
 
